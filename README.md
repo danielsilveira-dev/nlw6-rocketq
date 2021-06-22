@@ -1,5 +1,4 @@
 ![Capa](./assets/Capa.svg)
-
 # Embarcando no Front-end
 
 ## CSS - 40:22
