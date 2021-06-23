@@ -1,6 +1,8 @@
-![Capa](./assets/Capa.svg)
+![Capa](./assets/capa.svg)
 # Embarcando no Front-end
 
+## Links externos
+- [Clippy - CSS clip path maker](http://bennettfeely.com/clippy)
 ## CSS - 40:22
 
 ## clamp()
