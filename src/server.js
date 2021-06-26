@@ -5,6 +5,7 @@ const path = require('path') // Importando path que serve para informar diretór
 const server = express() // Executando o express
 
 server.set('view engine', 'ejs') // set('view engine', 'ejs') view engine falando que o responsável é o ejs
+server.use(express.static("public")) // Express use conteúdo estatico de public
 server.set('views', path.join(__dirname, 'views')) // Informando que caminho está a pasta 'views' - o join junta o src/ com views/ 
 server.use(route) // Usando o routes
 server.listen(3000, () => console.log("RODANDO"))
