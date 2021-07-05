@@ -1,4 +1,4 @@
-![Capa](./public/images/capa.svg)
+![Capa](/public/images/capa.svg)
 # Embarcando no Front-end
 
 ## Links externos
