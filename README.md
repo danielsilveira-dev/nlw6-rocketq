@@ -3,7 +3,7 @@
 
 ## Links externos
 - [Clippy - CSS clip path maker](http://bennettfeely.com/clippy)
-## CSS - 40:22
+## CSS
 
 ## clamp()
 
@@ -111,4 +111,3 @@ O reset foi feito da seguinte forma:
   box-sizing: border-box;
 }
 ```
-# Actions 45:50
