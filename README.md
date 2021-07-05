@@ -1,11 +1,17 @@
 ![Capa](/public/images/capa.svg)
 # Embarcando no Front-end
+## Tecnologias envolvidas
+- CSS
+- EJS
+- Node
+- Express
+- SQLite/SQLite3
 
 ## Links externos
 - [Clippy - CSS clip path maker](http://bennettfeely.com/clippy)
 ## CSS
 
-## clamp()
+### clamp()
 
 - intervalo de tamanho
 - tamanho minimo, tamanho padrão, tamanho máximo
